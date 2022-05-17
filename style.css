@@ -1,6 +1,53 @@
+html {
+    background-color: bisque;
+}
 body {
     margin: auto;
     padding: 0;
     width: 100vw;
-    max-width: 1440px;
+    max-width: 1920px;
+    background-color: white;
+    position: relative;
+}
+                                        /* HEADER */
+header {
+    display: flex;
+    justify-content: space-evenly;
+    
+    width: 100%;
+}
+            /* header-Menu */
+.navMenuWrap {
+    display: flex;
+    list-style: none;
+  padding: 0;
+}
+
+            /* header-loginMenu */
+.navloginMenuWrap {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+                                        /* SECTION1 */
+.redSection {
+    position: relative;
+    display: flex;
+    background-color: rgba(255, 80, 80, 1);
+    box-sizing: border-box;
+
+
+}
+.red1sect {
+    width: 45%;
+    text-align: center;
+    
+}
+.textOnRed {
+    margin: auto;
+    width: 45%;
+    
+}
+.photoOnRed {
+    width: 55%;
 }
