@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Graphik;
+    src: url('../fonts/GraphikRegular.otf');
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: Graphik;
+    src: url('../fonts/GraphikLight.otf');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: Graphik;
+    src: url('../fonts/GraphikBold.otf');
+    font-style: normal;
+    font-weight: 600;
+}
+/* @font-face {
+    font-family: DIN Pro;
+    src: url('../fonts/DINPro-Bold.woff');
+    font-style: normal;
+    font-weight: 600;
+} */
+@font-face {
+    font-family: DIN Pro;
+    src: url('../fonts/DINPro-CondensedBold.woff');
+    font-style: normal;
+    font-weight: 600;
+}
